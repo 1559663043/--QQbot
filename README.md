@@ -1,1 +1,1 @@
-# --QQbot
+# QQbot
